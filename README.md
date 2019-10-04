@@ -61,3 +61,4 @@ public class JavaApplication5 {
          do 
          {
          System.out.println("Enter the playing matrix (only `1` and `0` is accepted)");
+         Sysem.out.println("Amazing"):
